@@ -1,0 +1,10 @@
+{
+  "name": "CH4",
+  "version": "0.0.0",
+  "description": "CH4",
+  "main": "server.js",
+  "author": {
+    "name": "SONY",
+    "email": ""
+  }
+}
